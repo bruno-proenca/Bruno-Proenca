@@ -52,7 +52,7 @@ Projetos físicos voltados para a indústria, incluindo a criação de uma Esta�
 
 ### 📫 Vamos nos conectar?
 
-* **LinkedIn:** [https://www.linkedin.com/in/bruno-pr0enca/]
+* **LinkedIn:** https://www.linkedin.com/in/bruno-pr0enca/
 * **Localização:** Ponta Grossa, PR - Brasil 🇧🇷
 * **Interesses:** Basquete, Impressão 3D e Programação.
 
