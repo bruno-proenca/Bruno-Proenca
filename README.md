@@ -13,7 +13,7 @@ O meu foco é a criação de soluções que otimizem a eficiência fabril, utili
 * **Monitoramento Industrial (IoT):** Desenvolvimento de dashboards em Node-RED integrados a bancos de dados MySQL (Vertech SIL) para monitoramento de perdas na Área Quente.
 * **Data Integrity:** Implementação de lógicas de "Quarentena" e "Anti-Ghosting" via SQL e JS para garantir KPIs 100% confiáveis na produção.
 * **Automação de Escritório:** Macros complexas em VBA para integração de dados do SAP S/4HANA e relatórios de RCM (Reliability Centered Maintenance).
-* **Design & Manutenção:** Desenvolvimento de componentes físicos via SketchUp Pro e impressão 3D (Bambu Lab A1 Mini) para melhorias no piso de fábrica.
+* **Design & Manutenção:** Desenvolvimento de componentes físicos via SketchUp para melhorias no piso de fábrica.
 
 ---
 
