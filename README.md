@@ -2,7 +2,7 @@
 
 ### Automation Technician @ Ambev | Software Engineering Student | Maker
 
-Sou um profissional de automação apaixonado por transformar dados brutos em inteligência operacional. Atualmente, trabalho na Unidade de Vidros da **Ambev (Paraná)**, onde atuo na ponte entre a tecnologia industrial (OT) e o desenvolvimento de software (IT). 
+Sou um profissional de automação com facilidade para transformar dados brutos em inteligência operacional. Atualmente, trabalho na Unidade de Vidros da **Ambev (Paraná)**, onde atuo na ponte entre a tecnologia industrial (OT) e o desenvolvimento de software (IT). 
 
 O meu foco é a criação de soluções que otimizem a eficiência fabril, utilizando dashboards de monitoramento em tempo real, automação de processos e design mecânico.
 
