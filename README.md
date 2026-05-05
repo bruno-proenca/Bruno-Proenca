@@ -1,19 +1,19 @@
-# Olá, eu sou o Bruno Proença! 🚀
+# Hi, I'm Bruno Proença! 🚀
 
 ### Automation Technician @ Ambev | Software Engineering Student | Maker
 
-Sou um profissional de automação com facilidade para transformar dados brutos em inteligência operacional. Atualmente, trabalho na Unidade de Vidros da **Ambev (Paraná)**, onde atuo na ponte entre a tecnologia industrial (OT) e o desenvolvimento de software (IT). 
+I am an automation professional with a knack for transforming raw data into operational intelligence. Currently, I work at the **Ambev Glass Plant (Paraná - Brazil)**, acting as the bridge between Operational Technology (OT) and Information Technology (IT). 
 
-O meu foco é a criação de soluções que otimizem a eficiência fabril, utilizando dashboards de monitoramento em tempo real, automação de processos e design mecânico.
+My focus is on creating solutions that optimize factory efficiency, utilizing real-time monitoring dashboards, process automation, and mechanical design.
 
 ---
 
-### 🛠️ No que eu trabalho:
+### 🛠️ What I Do:
 
-* **Monitoramento Industrial (IoT):** Desenvolvimento de dashboards em Node-RED integrados a bancos de dados MySQL (Vertech SIL) para monitoramento de perdas na Área Quente.
-* **Data Integrity:** Implementação de lógicas de "Quarentena" e "Anti-Ghosting" via SQL e JS para garantir KPIs 100% confiáveis na produção.
-* **Automação de Escritório:** Macros complexas em VBA para integração de dados do SAP S/4HANA e relatórios de RCM (Reliability Centered Maintenance).
-* **Design & Manutenção:** Desenvolvimento de componentes físicos via SketchUp para melhorias no piso de fábrica.
+* **Industrial Monitoring (IoT):** Developing Node-RED dashboards integrated with MySQL/PostgreSQL databases (Vertech SIL) to monitor Hot End yield and losses.
+* **Data Integrity:** Implementing "Quarantine" and "Anti-Ghosting" logic via SQL and JS to ensure 100% reliable production KPIs.
+* **Office Automation:** Complex VBA macros for SAP S/4HANA data integration and RCM (Reliability Centered Maintenance) reporting.
+* **Design & Maintenance:** Developing physical components via SketchUp for shop-floor improvements.
 
 ---
 
@@ -27,34 +27,34 @@ O meu foco é a criação de soluções que otimizem a eficiência fabril, utili
 
 ---
 
-### 🚀 Projetos em Destaque:
+### 🚀 Featured Projects:
 
 #### 📊 [Industrial Loss Monitoring Dashboard]
-Sistema de monitoramento de Área Quente que calcula o impacto de paradas por seção em tempo real. 
-* **Destaque Técnico:** Algoritmo que ignora micro-alarmes e calcula o tempo de parada ativo antes mesmo do registro ser fechado no banco de dados.
+A Hot End monitoring system that calculates the impact of machine section downtime in real time. 
+* **Technical Highlight:** An algorithm that filters out micro-alarms and calculates active downtime even before the record is closed in the database.
 
 #### 📑 [VBA Industrial Automation Tools]
-Repositório de ferramentas desenvolvidas para otimizar a gestão da manutenção, com tratamento de dados SAP e geradores de códigos inteligentes.
+A repository of tools developed to optimize maintenance management, featuring SAP data processing and smart code generators.
 
 #### ⚙️ [Mechanical Design & 3D Printing]
-Projetos físicos voltados para a indústria, incluindo a criação de uma Estação de Lubrificação otimizada.
+Industry-focused physical projects, including the design of an optimized Lubrication Station.
 
 ---
 
-### 🎓 Formação:
+### 🎓 Education:
 
-* **Engenharia de Software** — Unifatecie
-* **Automação Industrial** — UTFPR
-* **Técnico em Eletroeletrônica**
-* **Técnico em Eletrônica**
+* **B.S. in Software Engineering** — Unifatecie
+* **A.S. in Industrial Automation** — UTFPR
+* **Technical Degree in Electrotechnics**
+* **Technical Degree in Electronics**
   
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's Connect!
 
 * **LinkedIn:** https://www.linkedin.com/in/bruno-pr0enca/
-* **Localização:** Ponta Grossa, PR - Brasil 🇧🇷
-* **Interesses:** Basquete, Impressão 3D e Programação.
+* **Location:** Ponta Grossa, PR - Brazil 🇧🇷
+* **Interests:** Basketball, 3D Printing, and Programming.
 
 ---
-*"Transformando sinais elétricos em decisões estratégicas."*
+*"Transforming electrical signals into strategic decisions."*
